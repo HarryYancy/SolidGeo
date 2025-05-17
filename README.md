@@ -62,7 +62,7 @@ Click to expand/collapse more examples
 
 ## Data Format
 
-```json
+```
 {
   "question": [string] The question text.
   "choices": [list of string] Choice options for some questions.

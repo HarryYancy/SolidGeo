@@ -2,7 +2,9 @@
 
 [[💻 Github](https://github.com/HarryYancy/SolidGeo)]  [[🤗 Huggingface Dataset](https://huggingface.co/datasets/HarryYancy/SolidGeo)] [[📖 Paper(coming soon)]()]
 
-<img src="assets/LOGO.png" alt="LOGO" height = "300"  />
+<div style="display: flex; justify-content: center;">
+  <img src="assets/LOGO.png" alt="LOGO" height="300">
+</div>
 
 ## Dataset Description
 

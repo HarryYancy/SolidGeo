@@ -24,42 +24,42 @@ Click to expand/collapse more examples
 
 <details>
 <summary>Measurement of Solid Geometric Forms</summary><p align="center">
-    <img src="assets/Measurement of Solid Geometric Forms.PNG" width="50%"> <br>
+    <img src="assets/Measurement of Solid Geometric Forms.jpg" width="50%"> <br>
 </p></details>
 
 <details>
 <summary>Solid Shape Identification</summary><p align="center">
-    <img src="assets/Solid Shape Identification.PNG" width="50%"> <br>
+    <img src="assets/Solid Shape Identification.jpg" width="50%"> <br>
 </p></details>
 
 <details>
 <summary>Spatial Metric Relations</summary><p align="center">
-    <img src="assets/Spatial Metric Relations.PNG" width="50%"> <br>
+    <img src="assets/Spatial Metric Relations.jpg" width="50%"> <br>
 </p></details>
 
 <details>
 <summary>Multi-view Projection</summary><p align="center">
-    <img src="assets/Multi-view Projection.PNG" width="50%"> <br>
+    <img src="assets/Multi-view Projection.jpg" width="50%"> <br>
 </p></details>
 
 <details>
 <summary>Planar Unfolding and Configuration</summary><p align="center">
-    <img src="assets/Planar Unfolding and Configuration.PNG" width="50%"> <br>
+    <img src="assets/Planar Unfolding and Configuration.jpg" width="50%"> <br>
 </p></details>
 
 <details>
 <summary>Composite Solid Structures</summary><p align="center">
-    <img src="assets/Composite Solid Structures.PNG" width="50%"> <br>
+    <img src="assets/Composite Solid Structures.jpg" width="50%"> <br>
 </p></details>
 
 <details>
 <summary>3D Coordinate and Vector Reasoning</summary><p align="center">
-    <img src="assets/3D Coordinate and Vector Reasoning.PNG" width="50%"> <br>
+    <img src="assets/3D Coordinate and Vector Reasoning.jpg" width="50%"> <br>
 </p></details>
 
 <details>
 <summary>Solid Geometry Modeling</summary><p align="center">
-    <img src="assets/Solid Geometry Modeling.PNG" width="50%"> <br>
+    <img src="assets/Solid Geometry Modeling.jpg" width="50%"> <br>
 </p></details>
 
 ## Data Format

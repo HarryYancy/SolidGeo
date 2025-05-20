@@ -1,6 +1,6 @@
 # SolidGeo: Measuring Multimodal Spatial Math Reasoning in Solid Geometry
 
-[[💻 Github](https://github.com/HarryYancy/SolidGeo)]  [[🤗 Huggingface Dataset](https://huggingface.co/datasets/HarryYancy/SolidGeo)] [[📖 Paper(coming soon)]()]
+[[🌐 Homepage](https://solidgeo.github.io/)] [[💻 Github](https://github.com/HarryYancy/SolidGeo)]  [[🤗 Huggingface Dataset](https://huggingface.co/datasets/HarryYancy/SolidGeo)]  [[📊 Leaderboard ](https://solidgeo.github.io/#leaderboard)]  [[🔍 Visualization](https://solidgeo.github.io/#visualization)]  [[📖 Paper(coming soon)]()]
 
 <div style="display: flex; justify-content: center;">
   <img src="assets/LOGO.png" alt="LOGO" height="300">

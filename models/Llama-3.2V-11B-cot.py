@@ -141,7 +141,7 @@ for _, sample in data.iterrows():
         generated_ids = model.generate(
             **inputs,
             temperature=0.2,
-            max_new_tokens=5120,
+            max_new_tokens=16384,
             logits_processor=logits_processor,
             do_sample=True
         )

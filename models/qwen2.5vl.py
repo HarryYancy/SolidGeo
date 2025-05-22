@@ -35,7 +35,7 @@ def generate_prompt_content(sample, prompt_type="default"):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Qwen2.5-VL Multi-Image Inference")
+    parser = argparse.ArgumentParser(description="Qwen2.5-VL Inference")
     parser.add_argument("prompt_type", type=str, choices=["default", "cot", "two-shot"], help="Prompt type")
     parser.add_argument("dev", nargs='+', type=int, help="CUDA visible devices")
     parser.add_argument("--model_name", type=str, required=True, help="Model name or path")

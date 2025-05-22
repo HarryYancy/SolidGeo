@@ -112,7 +112,7 @@ def main():
             generated_ids = model.generate(
                 **inputs,
                 temperature=args.temperature,
-                max_new_tokens=16384,
+                max_new_tokens=4096,
                 logits_processor=logits_processor,
                 do_sample=True
             )

@@ -82,7 +82,7 @@ def main():
     sampling_params = SamplingParams(
         temperature=0.2,
         top_p=0.95,
-        max_tokens=5120,
+        max_tokens=16384,
         repetition_penalty=1.2,
     )
 

@@ -1,7 +1,7 @@
 # SolidGeo: Measuring Multimodal Spatial Math Reasoning in Solid Geometry
 
 [[🌐 Homepage](https://solidgeo.github.io/)] [[💻 Github](https://github.com/HarryYancy/SolidGeo)]  [[🤗 Huggingface Dataset](https://huggingface.co/datasets/HarryYancy/SolidGeo)]  
-[[📊 Leaderboard ](https://solidgeo.github.io/#leaderboard)]  [[🔍 Visualization](https://solidgeo.github.io/#visualization)]  [[📖 Paper(coming soon)]()]
+[[📊 Leaderboard ](https://solidgeo.github.io/#leaderboard)]  [[🔍 Visualization](https://solidgeo.github.io/#visualization)]  [[📖 Paper](https://arxiv.org/abs/2505.21177)]
 
 <div style="display: flex; justify-content: center;">
   <img src="assets/LOGO.png" alt="LOGO" height="300">
@@ -85,9 +85,17 @@ Click to expand/collapse more examples
 
 ##  Citation
 
-If you find this work useful, welcome to star us.
+If you find this work useful, welcome to cite/star us.
 
 ```latex
-coming soon
+@misc{wang2025solidgeomeasuringmultimodalspatial,
+      title={SOLIDGEO: Measuring Multimodal Spatial Math Reasoning in Solid Geometry}, 
+      author={Peijie Wang and Chao Yang and Zhong-Zhi Li and Fei Yin and Dekang Ran and Mi Tian and Zhilong Ji and Jinfeng Bai and Cheng-Lin Liu},
+      year={2025},
+      eprint={2505.21177},
+      archivePrefix={arXiv},
+      primaryClass={cs.CG},
+      url={https://arxiv.org/abs/2505.21177}, 
+}
 ```
 
